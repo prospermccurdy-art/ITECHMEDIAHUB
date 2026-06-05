@@ -1,0 +1,6 @@
+{
+  "name": "ITECHMEDIAHUB",
+  "description": "High-quality corporate branding and premium print media solutions, featuring a digital services portfolio and custom price estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
